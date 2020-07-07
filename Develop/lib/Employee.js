@@ -1,19 +1,23 @@
 // TODO: Write code to define and export the Employee class
 
-const Employee = {
-    name,
-    id,
-    email,
-    getName:function(){
-        
-    },
-    getId:function(){
+class Employee {
+    constructor (name, id, email){
+        this.name = name;
+        this.id = id;
+        this.email = email;
+    }
+    getName(){
+            
+    };
+    getId(){
 
-    },
-    getEmail:function(){
+    };
+    getEmail(){
 
-    },
-    getRole:function(){
+    };
+    getRole(){
         return Employee
-    },
+    };
 }
+
+module.exports = Employee

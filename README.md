@@ -24,4 +24,4 @@
   
   Feel free to email me with questions about this application with a subject line of "RE: Team Generator"
   ## Links/Images
-  ![Screenshot](screenshot.png)
+  ![Screenshot](Screenshot.png)

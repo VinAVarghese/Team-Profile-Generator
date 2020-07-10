@@ -12,7 +12,7 @@
   ## Usage
   This app is meant to be used by Managers who want to create a quick reference page for their team members. This rendered reference page will have each team memeber's role, id number, email and role-specific information displayed.
   ## Contributing
-  Feel free to contribute but be sure to test and comment and added features.
+  Feel free to contribute but be sure to test and comment any added features.
   ## Tests
        $ npm run test
   ## License
